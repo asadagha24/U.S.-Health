@@ -25,14 +25,11 @@ This project focuses on analyzing health indicators amongst the U.S. population,
 
 ### Tools Used
 
-- **Jupyter Notebook (Python, Pandas, NumPy)**
-  - Employed for data cleaning, preliminary exploration, and any preprocessing steps prior to visualization.
+- **Jupyter Notebook (Python, Pandas, NumPy, Seaborn, Folium, Sklearn)**
+  - Employed for data cleaning, preliminary exploration, analysis, and visualization.
   
 - **Tableau Desktop**
   - Used for data visualization and creating the final storyboard.
-  
-- **GIS Software (optional)**
-  - Utilized if verifying or modifying shapefile properties for mapping purposes.
 
 ## Tableau Storyboard
 
@@ -42,21 +39,21 @@ A curated set of visualizations is available on [Tableau Public](https://public.
 
 Within this repository, you will find the following folders to maintain logical organization:
 
-1. **01 Project Management**
+**01 Project Management**
    - Contains the project brief and related documentation
    
-2. **02 Data**
+**02 Data**
    - Includes two subfolders:
   'Original Data': Original datasets.
   'Prepared Data': Cleaned data ready for analysis.
    
-3. **03 Scripts**
+**03 Scripts**
    - Holds Jupyter notebooks containing Python scripts for data cleaning, exploration, analyses, and visualizations.
    
-4. **04 Analysis : Visualizations**
+**04 Analysis : Visualizations**
    - Contains the choropleth map.
    
-5. **05 Storyboard**
+**05 Storyboard**
    - Includes file with link to Tableau storyboard.
 
 ## Disclaimer
