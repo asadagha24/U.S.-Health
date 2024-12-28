@@ -25,7 +25,7 @@ This project focuses on analyzing health indicators amongst the U.S. population,
 
 ### Tools Used
 
-- **Jupyter Notebook (Python, Pandas, NumPy, Seaborn, Folium, Sklearn)**
+- **Jupyter Notebook for Python Code (Pandas, NumPy, Seaborn, Folium, Sklearn)**
   - Employed for data cleaning, preliminary exploration, analysis, and visualization.
   
 - **Tableau Desktop**
