@@ -31,10 +31,6 @@ This project focuses on analyzing health indicators amongst the U.S. population,
 - **Tableau Desktop**
   - Used for data visualization and creating the final storyboard.
 
-## Tableau Storyboard
-
-A curated set of visualizations is available on [Tableau Public](https://public.tableau.com/views/LandscapeofU_S_Health/Storyboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). These views summarize the primary analysis and conclusions. Background steps—such as detailed data preparation, additional exploratory plots, and iterative testing—are omitted from the storyboard for clarity.
-
 ## Folder Structure
 
 Within this repository, you will find the following folders to maintain logical organization:
@@ -55,6 +51,10 @@ Within this repository, you will find the following folders to maintain logical 
    
 **05 Storyboard**
    - Includes file with link to Tableau storyboard.
+
+## Tableau Storyboard
+
+A curated set of visualizations is available on [Tableau Public](https://public.tableau.com/views/LandscapeofU_S_Health/Storyboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). These views summarize the primary analysis and conclusions. Background steps—such as detailed data preparation, additional exploratory plots, and iterative testing—are omitted from the storyboard for clarity.
 
 ## Disclaimer
 
